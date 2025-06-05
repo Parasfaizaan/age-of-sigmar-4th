@@ -20,7 +20,8 @@
 !*.yml
 
 !/images
-!/images/*
+!/images/* 
+
 
 
 
